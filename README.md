@@ -1,1 +1,3 @@
-# concepts-ai-assignments
+# Data Mining I Assignments
+
+Ethan Ciavolella
